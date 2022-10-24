@@ -73,7 +73,7 @@
 #### Object 객체
 
 - mdn web docs 에서 설명하고 있는 객체는 아래와 같습니다. <br/>
-  자바스크립트의 Object 클라스는 여러 데이터 유형 중 하나를 나타냅니다. 다양한 키 모음 및 더 복잡한 [엔티티](#######entity)들을 저장하는데 사용됩니다.
+  자바스크립트의 Object 클라스는 여러 데이터 유형 중 하나를 나타냅니다. 다양한 키 모음 및 더 복잡한 [엔티티](https://github.com/IgnacioSEO/TIL#entity)들을 저장하는데 사용됩니다.
 -
 
 ## Technical Terms
@@ -346,6 +346,8 @@
 - 3세대 웹의 특징은 SPA(Single Page Application)의 등장으로 단일 HTML 페이지와 메인 Javascript 파일로 HTML 요소 생성부터 모든 페이지 및 기능을 동적으로 처리할 수 있게 됩니다.
 - 현대 웹 시스템 아키텍처에서는 동시 접속자 수와 데이터 양의 증가로 Micro Service Architecture 구조를 갖습니다.
 - 현대 웹 시스템 개발에는 PM, Designer, Scrum Master, Tester, Frontend Developer, Backend Developer, Full Stack Developer, DevOps, SysOps, Data Sientist, Data Engineer 직군이 필요합니다.
+
+[위로가기](## Table of contents)
 
 ## API
 
