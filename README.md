@@ -347,7 +347,7 @@
 - 현대 웹 시스템 아키텍처에서는 동시 접속자 수와 데이터 양의 증가로 Micro Service Architecture 구조를 갖습니다.
 - 현대 웹 시스템 개발에는 PM, Designer, Scrum Master, Tester, Frontend Developer, Backend Developer, Full Stack Developer, DevOps, SysOps, Data Sientist, Data Engineer 직군이 필요합니다.
 
-[위로가기](## Table of contents)
+[🔼위로가기](## Table of contents)
 
 ## API
 
