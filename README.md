@@ -12,6 +12,12 @@
 
 ## Table of contents
 
+1. [Javascript](#Javascipt)
+1.
+1.
+1.
+1.
+
 ## Computer
 
 #### JIT (Just-in-time compilation) 0r (dynamic translation)
@@ -23,7 +29,7 @@
 - JIT 컴파일러는 두 가지의 방식을 혼합한 방식으로 생각할 수 있는데, 실행 시점에서 인터프리트 방식으로 기계어 코드를 생성하면서 그 코드를 캐싱하여, 같은 함수가 여러 번 불릴 때 매번 기계어 코드를 생성하는 것을 방지합니다.
 - V8(Node.js)에서는 JIT 컴파일을 지원합니다.
 
-## Javascript
+# Javascript
 
 #### 자바스크립트 실행 동작 원리
 
