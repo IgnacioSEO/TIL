@@ -432,6 +432,16 @@
 
 [🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
 
+## 서버 죽이기
+
+### Node.js 서버가 죽지를 않아서 해결하기 위해서 stackoverflow 를 찾던 중에 나온 방법
+
+#### lsof -i tcp:8000
+
+#### 8000 은 임의의 값을 넣어준 것이고 본인 서버의 PORT 값을 넣어 주면 된다.
+
+#### 그후에는 node 00000(숫자 5개) ~~~~~~ 가 나오는데 kill -9 00000(나온 숫자 5개)을 입력하면 서버가 죽는다.
+
 ## Referencesv
 
 - [Entity-DataBase](https://rh-cp.tistory.com/78)
