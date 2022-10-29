@@ -82,6 +82,8 @@
   자바스크립트의 Object 클라스는 여러 데이터 유형 중 하나를 나타냅니다. 다양한 키 모음 및 더 복잡한 [엔티티](https://github.com/IgnacioSEO/TIL#entity)들을 저장하는데 사용됩니다.
 -
 
+[🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+
 ## Technical Terms
 
 ###### Assembly language
