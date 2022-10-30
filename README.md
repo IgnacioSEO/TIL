@@ -13,7 +13,7 @@
 ## Table of contents
 
 1. [Javascript](#Javascipt)
-1.
+1. [Web](#Web)
 1.
 1.
 1.
