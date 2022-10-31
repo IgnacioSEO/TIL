@@ -12,6 +12,7 @@
 
 ## Table of contents
 
+1. [Database]()
 1. [Javascript](https://github.com/IgnacioSEO/TIL#javascript)
 1. [Web](https://github.com/IgnacioSEO/TIL#web)
 1.
@@ -433,6 +434,21 @@
 - 웹 시스템에서 API란 클라이언트(브라우저)와 데이터베이스(인스타그램 서비스의 데이터 집합) 두 애플리케이션 사이에서 데이터를 읽거나 쓰기위해서 필요한 접점이 API입니다.
 
 [🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+
+## Database
+
+### MySQL
+
+- 웹 시스템에서 관계형 데이터베이스(Relational Database Management System, RDBMS)은 굉장히 중요한 역할을 합니다. 대부분의 회사에서 서비스 초기에는 범용 RDBMS를 선택하고, 사용량이나 데이터의 크기가 커지면 일부 도메인 또는 테이블의 데이터만 전용 DBMS로 이전해서 확장하는 형태로 사용합니다.
+- 또한 관계형 데이터베이스 MongoDB와 같은 비관계형 데이터베이스(NoSQL)에서는 할 수 없는 트랜잭션과 같은 기능들을 제공해 줍니다.
+- 그렇기 때문에 어떤 서비스를 개발하더라도 관계형데이터베이스(RDBMS)를 사용할 수 밖에 없으며, 다양한 RDBMS(Oracle RDBMS, MySQL, SQL server(MS), PostgreSQL) 중에서도 MySQL 서버가 가장 많이 사용되고 있습니다. 이는 다른 DBMS보다 MySQL 서버의 노력과 시간 투자 대비 효율이 가장 높다는 것을 의미하며, 서비스 개발자라면 MySQL 서버를 이해하기 위해서 시간을 투자하여 학습해야 합니다.
+
+### MySQL의 역사
+
+- MySQL의 역사는 1979년 스웨덴의 TcX라는 회사의 프로그래머인 Michael Widenius(Monty)가 유닉스 기반의 데이터베이스 관리 도구인 UNIREG를 개발하면서 시작되었습니다. 1994년 인터넷의 발전에 따라서 UNIREG를 웹 기반 서비스에서 데이터베이스 시스템으로 사용하고자 했었습니다.
+- 그러나 웹에서 동적인 처리가 중요해진 시점에서 UNIREG는 적합하지 않았습니다. 대안으로 mSQL(miniSQL)을 찾았지만, 인덱싱(Indexing)을 지원하지 않는 등 성능이 좋지 않았습니다. 이후 TcX는 mSQL의 개발자와 함께 문제를 해결하고자 많은 시도를 했지만 실패하게 됩니다.
+- 결국 David Hughes의 거부로 인해 TcX는 마침내 자체적인 새로운 데이터베이스 시스템 개념을 설계하고 개발하기로 결정했습니다. 1995년 5월 UNIREG와 mSQL의 조합으로 MySQL 버전 1.0이 세상에 등장하게 됩니다. 이후 1996년 일반인들에게 공개되었습니다. 그리고 2000년 TcX에서 MySQL을 개발한 중심 인물(Monty, David)이 MySQL AB라는 회사로 독립함과 동시에 FPL(Free Public License) 정책을 취하게 됩니다. 라이센스 정책은 “MySQL 엔터프라이즈 에디션”과 “MySQL 커뮤니티 에디션" 두 가지이며, 커뮤니티 에디션은 일반 사용자가 무료로 사용할 수 있습니다.
+- 현재는 썬마이크로시스템즈를 거쳐 오라클로 인수되어 소스코드 레벨의 리펙토링부터 시작해서 역사상 가장 큰 발전 발전의 시기를 거치면서 발전하고 있습니다. MySQL 5.5~5.7 버전 - 안정성과 성능 개선, MySQL 8.0 (최신) 버전 - 사용 DBMS 기능 장착.
 
 ## 서버 죽이기
 
