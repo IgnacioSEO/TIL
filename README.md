@@ -12,7 +12,7 @@
 
 ## Table of contents
 
-1. [Database]()
+1. [Database](https://github.com/IgnacioSEO/TIL#database)
 1. [Javascript](https://github.com/IgnacioSEO/TIL#javascript)
 1. [Web](https://github.com/IgnacioSEO/TIL#web)
 1.
@@ -449,6 +449,27 @@
 - 그러나 웹에서 동적인 처리가 중요해진 시점에서 UNIREG는 적합하지 않았습니다. 대안으로 mSQL(miniSQL)을 찾았지만, 인덱싱(Indexing)을 지원하지 않는 등 성능이 좋지 않았습니다. 이후 TcX는 mSQL의 개발자와 함께 문제를 해결하고자 많은 시도를 했지만 실패하게 됩니다.
 - 결국 David Hughes의 거부로 인해 TcX는 마침내 자체적인 새로운 데이터베이스 시스템 개념을 설계하고 개발하기로 결정했습니다. 1995년 5월 UNIREG와 mSQL의 조합으로 MySQL 버전 1.0이 세상에 등장하게 됩니다. 이후 1996년 일반인들에게 공개되었습니다. 그리고 2000년 TcX에서 MySQL을 개발한 중심 인물(Monty, David)이 MySQL AB라는 회사로 독립함과 동시에 FPL(Free Public License) 정책을 취하게 됩니다. 라이센스 정책은 “MySQL 엔터프라이즈 에디션”과 “MySQL 커뮤니티 에디션" 두 가지이며, 커뮤니티 에디션은 일반 사용자가 무료로 사용할 수 있습니다.
 - 현재는 썬마이크로시스템즈를 거쳐 오라클로 인수되어 소스코드 레벨의 리펙토링부터 시작해서 역사상 가장 큰 발전 발전의 시기를 거치면서 발전하고 있습니다. MySQL 5.5~5.7 버전 - 안정성과 성능 개선, MySQL 8.0 (최신) 버전 - 사용 DBMS 기능 장착.
+
+### Why MySQL
+
+- 서비스 개발에서 DBMS(Database Management System)를 선택해야할 때, 어떤 DBMS를 선택해야 할까? 당연히 내가 가장 잘 알고 활용할 수 있는 DBMS를 선택하는 것이 가장 좋은 선택이겠지만, 데이터베이스를 선택하는 기준은 안정성, 성능과 기능, 커뮤니티(인지도) 순서로 정리할 수 있습니다.
+
+#### 1. 안정성 / 성능과 기능
+
+- DBMS의 안정성은 더 설명이 필요 없는 기준일 것입니다. 때로는 성능이나 기능을 안정성보다 중요시하는 사람들이 있는데, 주로 새로운 시도를 좋아하는 개발자들일 가능성이 높습니다. 성능이나 기능은 돈이나 노력으로 해결할 수 있는 문제지만, 안정성은 그렇지 않습니다. 그렇기 때문에 안정성을 먼저 선택의 기준으로 두고 다음으로 성능과 기능, 그리고 커뮤니티나 인지도를 함께 고려해야 합니다. Uber, Airbnb, 그리고 Shopify를 포함하여 5,717개의 회사가 RDBMS로 MySQL을 사용하고 있는 만큼 안정성이 보장된 DBMS입니다.
+
+#### 2. 커뮤니티와 인지도
+
+- 소프트웨어의 커뮤니티와 인지도는 DBMS를 사용하여 개발하는 과정중에 필요한 지식이나 경험을 얻는데 있어서 중요한 선택 기준이 됩니다. 아래 [그림 1-4]을 보시면 DB-Engines.com에서 제공하는 2022년 4월 기준 DBMS의 순위입니다.
+- DB-Engine 랭킹은 DBMS의 현재 인지도에 따라 결정됩니다. 대표적인 기준은 다음과 같습니다.
+
+  - 웹 사이트 언급 횟수 (Number of mentions of the system on websites)
+  - 구글 트렌드 검색 빈도 (General interest in the system)
+  - 기술 토론 빈도 (Frequency of technical discussions about the system)
+  - 채용 시장(Number of job offers, in which the system is mentioned)
+  - 전문가 집단의 숫자 (Number of profiles in professional networks, in which the system is mentioned.)
+  - SNS 언급 횟수 (Relevance in social networks. We count the number of Twitter tweets, in which the system is mentioned.)
+  - [그림 1-4]에서 보여주는 결과를 보면 MySQL 서버는 안정성, 성능과 기능, 그리고 커뮤니티 측면에서 충분히 좋은 선택지라는 것을 알 수 있습니다.
 
 ## 서버 죽이기
 
