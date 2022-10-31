@@ -12,8 +12,8 @@
 
 ## Table of contents
 
-1. [Javascript](#Javascipt)
-1. [Web](#Web)
+1. [Javascript](https://github.com/IgnacioSEO/TIL#javascript)
+1. [Web](https://github.com/IgnacioSEO/TIL#web)
 1.
 1.
 1.
