@@ -16,7 +16,7 @@
 1. [Javascript](https://github.com/IgnacioSEO/TIL#javascript)
 1. [Web](https://github.com/IgnacioSEO/TIL#web)
 1. [API](https://github.com/IgnacioSEO/TIL#api)
-1. [Database](https://github.com/IgnacioSEO/TIL#database)
+1.
 1.
 
 ## Computer
@@ -470,6 +470,8 @@
   - 전문가 집단의 숫자 (Number of profiles in professional networks, in which the system is mentioned.)
   - SNS 언급 횟수 (Relevance in social networks. We count the number of Twitter tweets, in which the system is mentioned.)
   - [그림 1-4]에서 보여주는 결과를 보면 MySQL 서버는 안정성, 성능과 기능, 그리고 커뮤니티 측면에서 충분히 좋은 선택지라는 것을 알 수 있습니다.
+
+  [🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
 
 ## 서버 죽이기
 
