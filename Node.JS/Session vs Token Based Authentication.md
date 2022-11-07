@@ -1,5 +1,7 @@
 [⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
 
+# Session vs Token Based Authentication
+
 # 1. Introduction
 
 #### 웹 환경에서 사용자와 시스템 간에 데이터를 교환하기 위해 HTTP 방식을 사용합니다. HTTP 통신은 요청과 응답에 의해 동작하며, HTTP의 특징 중 가장 중요한 특징은 바로 Stateless 입니다. 문자 그대로 번역하면 State(상태) + less(없음) 을 의미합니다.
