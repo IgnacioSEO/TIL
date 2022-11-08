@@ -1,4 +1,4 @@
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)
 
 # 1. Express에서 JWT 사용하기
 
@@ -46,4 +46,4 @@ console.log(decoded)
 
 #### jsonwebtoken 모듈을 사용하여 Node.js에서 JWT를 활용할 수 있습니다.
 
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)

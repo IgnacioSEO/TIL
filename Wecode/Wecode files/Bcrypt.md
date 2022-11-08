@@ -1,4 +1,4 @@
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)
 
 # 1. Bcrypt
 
@@ -56,4 +56,4 @@
 
 #### Bcrypt는 단방향 해시 알고리즘이기 때문에 복호화가 불가능 합니다. 따라서 비교하고 싶은 평문을 암호화된 값이 가지고 있는 알고리즘, Cost Factor, Salt을 이용하여 해시를 진행한 후 암호화된 값과의 비교를 통해 검증을 진행합니다.
 
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)

@@ -1,4 +1,4 @@
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)
 
 # 1. What is Node.js and Why Use it?
 
@@ -64,4 +64,4 @@
 
 #### javascript 코드를 실행하는 방법은 REPL (Read Eval Print Loop)과 .js 파일에 코드를 작성하고 실행하는 방법이 있습니다.
 
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)

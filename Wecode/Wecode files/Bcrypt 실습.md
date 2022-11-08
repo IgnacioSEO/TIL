@@ -1,4 +1,4 @@
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)
 
 # 1. Node.js에서 bcrypt 사용하기
 
@@ -62,4 +62,4 @@ main()
 
 #### Node.js에서 npm을 통해 bcrypt 모듈을 설치하여 Bcrypt를 사용할 수 있습니다.
 
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)

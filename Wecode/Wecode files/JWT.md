@@ -1,4 +1,4 @@
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)
 
 # 1. JWT(JSON Web Token)
 
@@ -88,4 +88,4 @@
 
 #### Signature: Header의 인코딩된 내용과 Payload의 인코딩된 내용을 더한 뒤에 Secret Key와 알고리즘을 이용하여 암호화된 JWT의 서명 부분입니다.
 
-[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
+[⏏️ 메인으로](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#table-of-contents)
