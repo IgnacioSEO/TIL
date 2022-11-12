@@ -16,7 +16,8 @@
 1. [Javascript](https://github.com/IgnacioSEO/TIL#javascript)
 1. [Web](https://github.com/IgnacioSEO/TIL#web)
 1. [API](https://github.com/IgnacioSEO/TIL#api)
-1.
+1. [Node.js 터미널관련 서버실행 오류해결]()
+1. [Wecode](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#wecode)
 
 # Node.js
 
