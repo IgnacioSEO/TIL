@@ -16,12 +16,8 @@
 1. [Javascript](https://github.com/IgnacioSEO/TIL#javascript)
 1. [Web](https://github.com/IgnacioSEO/TIL#web)
 1. [API](https://github.com/IgnacioSEO/TIL#api)
-1. [Node.js 터미널관련 서버실행 오류해결]()
+1. [오류해결]()
 1. [Wecode](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#wecode)
-
-# Node.js
-
-## Computer
 
 #### JIT (Just-in-time compilation) 0r (dynamic translation)
 
@@ -57,8 +53,6 @@
 ### Internet
 
 [Reference. Internet](https://study.wecode.co.kr/session/content/283)
-[🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
-[🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
 [🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
 
 ## 서버 죽이기
