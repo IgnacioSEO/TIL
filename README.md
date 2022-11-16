@@ -16,7 +16,7 @@
 1. [Javascript](https://github.com/IgnacioSEO/TIL#javascript)
 1. [Web](https://github.com/IgnacioSEO/TIL#web)
 1. [API](https://github.com/IgnacioSEO/TIL#api)
-1. [오류해결](https://github.com/IgnacioSEO/TIL/tree/main/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0)
+1. [오류해결](https://github.com/IgnacioSEO/TIL/blob/main/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/README.md#%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0)
 1. [Wecode](https://github.com/IgnacioSEO/TIL/tree/main/Wecode#wecode)
 
 #### JIT (Just-in-time compilation) 0r (dynamic translation)
