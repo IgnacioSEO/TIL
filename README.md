@@ -30,29 +30,6 @@
 
 # Javascript
 
-#### 자바스크립트 실행 동작 원리
-
-#### Object 객체
-
-- mdn web docs 에서 설명하고 있는 객체는 아래와 같습니다. <br/>
-  자바스크립트의 Object 클라스는 여러 데이터 유형 중 하나를 나타냅니다. 다양한 키 모음 및 더 복잡한 [엔티티](https://github.com/IgnacioSEO/TIL#entity)들을 저장하는데 사용됩니다.
--
-
-[🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
-
-## Technical Terms
-
-###### Assembly language
-
-- 기계어로 구성된 명령어를 니모닉 기호(mnemonic symbol)를 정해 사람이 좀더 쉽게 컴퓨터의 행동을 제어할 수 있도록 한 언어
-
-###### Entity
-
-## Web
-
-### Internet
-
-[Reference. Internet](https://study.wecode.co.kr/session/content/283)
 [🔼위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
 
 ## Referencesv
