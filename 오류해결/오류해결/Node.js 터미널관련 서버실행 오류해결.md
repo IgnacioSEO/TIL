@@ -12,4 +12,6 @@
 
 ### 그후에는 node 00000(숫자 5개) ~~~~~~ 가 나오는데 kill -9 00000(나온 숫자 5개)을 입력하면 서버가 죽는다.
 
+### fg(front ground) bg(back ground)
+
 [🔼위로가기](https://github.com/IgnacioSEO/TIL/tree/main/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0#table-of-contents)
