@@ -14,4 +14,6 @@
 
 ### fg(front ground) bg(back ground)
 
+### 이번 에러 해결을 통해 리눅스 라는 존재에 대해서 알게 되었고 조금 더 리눅스 OS 와 관련된 명령어 대한 보추잉 필요
+
 [🔼위로가기](https://github.com/IgnacioSEO/TIL/tree/main/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0#table-of-contents)
