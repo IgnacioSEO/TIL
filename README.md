@@ -1,7 +1,7 @@
 # <p align='center'> 🌨️ Today I Learned (TIL)
 ## Javascript
 
-⛄️ [구조 분해 할당](https://github.com/IgnacioSEO/TIL/blob/main/Javasript/object.md)
+⛄️ [구조 분해 할당](https://github.com/IgnacioSEO/TIL/blob/main/Javasript/Destructuring%20assignment.md)
 </br>⛄️
 </br>⛄️
 </br>⛄️ 
