@@ -2,7 +2,7 @@
 ## Javascript
 
 ⛄️ [구조 분해 할당](https://github.com/IgnacioSEO/TIL/blob/main/Javasript/Destructuring%20assignment.md)
-</br>⛄️
+</br>⛄️ [삼항 연산자]()
 </br>⛄️
 </br>⛄️ 
 </br>⛄️
