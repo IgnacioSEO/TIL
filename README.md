@@ -6,6 +6,7 @@
 </br>⛄️ [자바스크립트 메모리 할당]()
 </br>⛄️ [스크립트 언어 작동 원리]()
 </br>⛄️ [호이스팅]()
+</br>⛄️ [일급 함수]()
 
 
 [☃️ 위로가기](https://github.com/IgnacioSEO/TIL#today-i-learned-til)
